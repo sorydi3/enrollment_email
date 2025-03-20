@@ -28,4 +28,4 @@ $plugin->version   = 2025031900;        // The current plugin version (Date: YYY
 $plugin->requires  = 2021051700;        // Requires this Moodle version (4.0+)
 $plugin->component = 'local_enrollment_email';  // Full name of the plugin
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->release   = '1.0.5';
+$plugin->release   = '1.0.6';
